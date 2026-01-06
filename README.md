@@ -6,6 +6,9 @@ A curated, future-facing hub for agentic commerce in 2026 and beyond.
 - OpenAI Commerce: https://developers.openai.com/commerce/
 - ACP Protocol Website: https://www.agenticcommerce.dev/
 
+## Platforms & Tools
+- TryChannel3: https://trychannel3.com/
+
 ## Standards & Protocols
 - Model Context Protocol (MCP): https://modelcontextprotocol.io/
 
