@@ -7,6 +7,7 @@ A curated, future-facing hub for agentic commerce in 2026 and beyond.
 - ACP Protocol Website: https://www.agenticcommerce.dev/
 
 ## Platforms & Tools
+- Arc: https://www.arc.network/
 - TryChannel3: https://trychannel3.com/
 
 ## Standards & Protocols
