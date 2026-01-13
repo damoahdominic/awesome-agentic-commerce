@@ -14,11 +14,14 @@ A curated, future-facing hub for agentic commerce in 2026 and beyond.
 - [Microsoft Copilot Checkout and Brand Agents Announcement](https://about.ads.microsoft.com/en/blog/post/january-2026/conversations-that-convert-copilot-checkout-and-brand-agents)
 
 ## Official Protocols & Core Systems
-- [ACP Protocol Website](https://www.agenticcommerce.dev/)
-- [Google Universal Commerce Protocol (UCP)](https://github.com/Universal-Commerce-Protocol/ucp)
+- [Open AI ACP Protocol Website](https://www.agenticcommerce.dev/)
+- [Google Universal Commerce Protocol (UCP)](https://ucp.dev)
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/)
-- [Open AI Agentic Commerce Protocol (ACP) Github](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
-- [OpenAI Commerce](https://developers.openai.com/commerce/)
+- [MCP Pay](https://mcpay.tech/)
+
+## Official Github Projects
+- [OpenAI Agentic Commerce Protocol (ACP) Github](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
+- [Google Universal Commerce Protocol (UCP) Github](https://github.com/Universal-Commerce-Protocol/ucp)
 
 ## Platforms & Tools
 - [Wild Card - YC](https://wild-card.ai/)
