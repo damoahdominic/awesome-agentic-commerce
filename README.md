@@ -7,9 +7,12 @@ Agentic commerce is the shift from people clicking buy buttons to AI agents acti
 This repository exists to document, track, and make sense of that shift.
 
 ## Table of Contents (Legend)
-- [Official & Core](#official--core)
+- [Official Announcements](#official-announcements)
+- [Official Protocols & Core Systems](#official-protocols--core-systems)
+- [Official Github Projects](#official-github-projects)
 - [Platforms & Tools](#platforms--tools)
-- [Standards & Protocols](#standards--protocols)
+- [ACP Platforms & Tools](#acp-platforms--tools)
+- [Notable Github Projects](#notable-github-projects)
 - [Contributing](#contributing)
 
 ## Official Announcements
