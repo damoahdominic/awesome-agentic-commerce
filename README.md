@@ -1,8 +1,6 @@
 # Awesome Agentic Commerce [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Agentic commerce is the shift from people clicking buy buttons to AI agents acting, deciding, negotiating, and transacting on behalf of users.
-
-Instead of browsing products, comparing prices, and checking out manually, users increasingly delegate intent to software:
+Agentic commerce is the shift from people clicking buy buttons to AI agents acting, deciding, negotiating, and transacting on behalf of users.Instead of browsing products, comparing prices, and checking out manually, users increasingly delegate intent to software:
 
 > “Find the best option, within my constraints, and complete the purchase.”
 
