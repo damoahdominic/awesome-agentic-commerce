@@ -6,31 +6,31 @@ Agentic commerce is the shift from people clicking buy buttons to AI agents acti
 
 This repository exists to document, track, and make sense of that shift.
 
-## Table of Contents (Legend)
-- [Official Announcements](#official-announcements)
-- [Official Protocols & Core Systems](#official-protocols--core-systems)
-- [Official Github Projects](#official-github-projects)
-- [Platforms & Tools](#platforms--tools)
-- [ACP Platforms & Tools](#acp-platforms--tools)
-- [Notable Github Projects](#notable-github-projects)
-- [Contributing](#contributing)
+## 🧭 Table of Contents (Legend)
+- [📣 Official Announcements](#official-announcements)
+- [🧱 Official Protocols & Core Systems](#official-protocols--core-systems)
+- [🗂️ Official Github Projects](#official-github-projects)
+- [🧰 Platforms & Tools](#platforms--tools)
+- [🛍️ ACP Platforms & Tools](#acp-platforms--tools)
+- [💻 Notable Github Projects](#notable-github-projects)
+- [🤝 Contributing](#contributing)
 
-## Official Announcements
+## 📣 Official Announcements
 - [OpenAI's ACP Announcement](https://openai.com/index/buy-it-in-chatgpt/)
 - [Google's UCP Announcement](https://blog.google/company-news/inside-google/message-ceo/nrf-2026-remarks/)
 - [Microsoft Copilot Checkout and Brand Agents Announcement](https://about.ads.microsoft.com/en/blog/post/january-2026/conversations-that-convert-copilot-checkout-and-brand-agents)
 
-## Official Protocols & Core Systems
+## 🧱 Official Protocols & Core Systems
 - [Open AI ACP Protocol Website](https://www.agenticcommerce.dev/)
 - [Google Universal Commerce Protocol (UCP)](https://ucp.dev)
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/)
 - [MCP Pay](https://mcpay.tech/)
 
-## Official Github Projects
+## 🗂️ Official Github Projects
 - [OpenAI Agentic Commerce Protocol (ACP) Github](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
 - [Google Universal Commerce Protocol (UCP) Github](https://github.com/Universal-Commerce-Protocol/ucp)
 
-## Platforms & Tools
+## 🧰 Platforms & Tools
 - [Wild Card - YC W25](https://wild-card.ai/)
 - [TryChannel3 - YC S25](https://trychannel3.com/)
 - [PayWithLocus - YC F25](https://paywithlocus.com/)
@@ -47,12 +47,12 @@ This repository exists to document, track, and make sense of that shift.
 - [Swap Commerce](https://www.swap-commerce.com/)
 - [Lucid Agents](https://docs.daydreams.systems/)
 
-## ACP Platforms & Tools
+## 🛍️ ACP Platforms & Tools
 - [ACP Feed](https://acpfeed.com/)
 - [AgenticCart](https://agenticcart.ai/)
 - [WebVijayi](https://webvijayi.com/instant-checkout-via-acp-agentic-commerce-for-woocommerce/)
 
-## Notable Github Projects
+## 💻 Notable Github Projects
 - [github.com/vercel/acp-handler](https://github.com/vercel/acp-handler)
 - [github.com/stateset/stateset-ucp-handler](https://github.com/stateset/stateset-ucp-handler)
 - [github.com/ebowwa/agentic-commerce-protocol-sandbox](https://github.com/ebowwa/agentic-commerce-protocol-sandbox)
@@ -66,5 +66,5 @@ This repository exists to document, track, and make sense of that shift.
 - [github.com/0xRustElite1111/x402-payments-protocol](https://github.com/0xRustElite1111/x402-payments-protocol)
 - [github.com/Logarithm-Labs/yield-analysis-sdk](https://github.com/Logarithm-Labs/yield-analysis-sdk)
 
-## Contributing
+## 🤝 Contributing
 Have a link suggestion? Open a PR or issue.
