@@ -13,6 +13,7 @@ A curated, future-facing hub for agentic commerce in 2026 and beyond.
 
 ## Platforms & Tools
 - [Arc](https://www.arc.network/)
+- [Stateset](https://www.stateset.com/)
 - [TryChannel3](https://trychannel3.com/)
 - [Lucid Agents](https://github.com/daydreamsai/lucid-agents)
 - [acp-handler](https://github.com/vercel/acp-handler)
