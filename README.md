@@ -23,6 +23,7 @@ A curated, future-facing hub for agentic commerce in 2026 and beyond.
 - [Stateset](https://www.stateset.com/)
 - [Skyfire](https://skyfire.xyz/)
 - [PayOS](https://payos.ai/)
+- [VeryGoodSecurity](https://www.verygoodsecurity.com/)
 - [GhostSpeak](https://www.ghostspeak.io/)
 - [Arc](https://www.arc.network/)
 - [Swap Commerce](https://www.swap-commerce.com/)
