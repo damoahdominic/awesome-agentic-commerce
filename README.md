@@ -2,6 +2,7 @@
 
 A curated, future-facing hub for agentic commerce in 2026 and beyond.
 
+## Table of Contents (Legend)
 - [Official & Core](#official--core)
 - [Platforms & Tools](#platforms--tools)
 - [Standards & Protocols](#standards--protocols)
