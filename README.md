@@ -8,6 +8,11 @@ A curated, future-facing hub for agentic commerce in 2026 and beyond.
 - [Standards & Protocols](#standards--protocols)
 - [Contributing](#contributing)
 
+## Official Announcements
+- [OpenAI's ACP Announcement](https://openai.com/index/buy-it-in-chatgpt/)
+- [Google's UCP Announcement](https://blog.google/company-news/inside-google/message-ceo/nrf-2026-remarks/)
+- [Microsoft Copilot Checkout and Brand Agents Announcement](https://about.ads.microsoft.com/en/blog/post/january-2026/conversations-that-convert-copilot-checkout-and-brand-agents)
+
 ## Official Protocols & Core Systems
 - [ACP Protocol Website](https://www.agenticcommerce.dev/)
 - [Google Universal Commerce Protocol (UCP)](https://github.com/Universal-Commerce-Protocol/ucp)
@@ -21,8 +26,11 @@ A curated, future-facing hub for agentic commerce in 2026 and beyond.
 - [PayWithLocus -YC](https://paywithlocus.com/)
 - [Nekuda](https://nekuda.ai/)
 - [Stateset](https://www.stateset.com/)
+- [Simple Checkout](https://simplecheckout.ai/)
 - [Skyfire](https://skyfire.xyz/)
 - [PayOS](https://payos.ai/)
+- [Payman](https://paymanai.com/)
+- [Firmly](https://www.firmly.ai/)
 - [VeryGoodSecurity](https://www.verygoodsecurity.com/)
 - [GhostSpeak](https://www.ghostspeak.io/)
 - [Arc](https://www.arc.network/)
