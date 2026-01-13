@@ -1,6 +1,8 @@
 # Awesome Agentic Commerce [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Agentic commerce is the shift from people clicking buy buttons to AI agents acting, deciding, negotiating, and transacting on behalf of users.Instead of browsing products, comparing prices, and checking out manually, users increasingly delegate intent to software
+![Cover](images/cover.png)
+
+Agentic commerce is the shift from people clicking buy buttons to AI agents acting, deciding, negotiating, and transacting on behalf of users.Instead of browsing products, comparing prices, and checking out manually, users increasingly delegate intent to software.
 
 This repository exists to document, track, and make sense of that shift.
 
@@ -42,7 +44,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Swap Commerce](https://www.swap-commerce.com/)
 - [Lucid Agents](https://docs.daydreams.systems/)
 
-## ACP Specific Implementations
+## ACP Platforms & Tools
 - [ACP Feed](https://acpfeed.com/)
 - [AgenticCart](https://agenticcart.ai/)
 - [WebVijayi](https://webvijayi.com/instant-checkout-via-acp-agentic-commerce-for-woocommerce/)
