@@ -50,18 +50,18 @@ This repository exists to document, track, and make sense of that shift.
 - [WebVijayi](https://webvijayi.com/instant-checkout-via-acp-agentic-commerce-for-woocommerce/)
 
 ## Notable Github Projects
-- [acp-handler](https://github.com/vercel/acp-handler)
-- [Stateset UCP Handler](https://github.com/stateset/stateset-ucp-handler)
-- [ACP Sandbox 🤖](https://github.com/ebowwa/agentic-commerce-protocol-sandbox)
-- [Agentic Commerce Protocol (ACP) Demo Implementation - MCP based](https://github.com/locus-technologies/agentic-commerce-protocol-demo)
-- [Agentic Commerce Protocol for Magento 2](https://github.com/run-as-root/ACP-for-Magento-2)
-- [Agentic Commerce Protocol](https://github.com/svix/agentic-commerce-protocol)
-- [Agentic Web: A Two‑Sided Protocol for Commerce Bounties and Content Paywalls](https://github.com/chiefastro/agentic-web)
-- [Data Analyst Agent Demo](https://github.com/skyfire-xyz/skyfire-solutions-demo)
-- [GhostSpeak: The Ghost Behind Every AI](https://github.com/Ghostspeak/GhostSpeak)
-- [Lucid Agents](https://github.com/daydreamsai/lucid-agents)
-- [x402 - Internet-Native Payments Protocol with AI Agent](https://github.com/0xRustElite1111/x402-payments-protocol)
-- [Yield Analysis SDK](https://github.com/Logarithm-Labs/yield-analysis-sdk)
+- [github.com/vercel/acp-handler](https://github.com/vercel/acp-handler)
+- [github.com/stateset/stateset-ucp-handler](https://github.com/stateset/stateset-ucp-handler)
+- [github.com/ebowwa/agentic-commerce-protocol-sandbox](https://github.com/ebowwa/agentic-commerce-protocol-sandbox)
+- [github.com/locus-technologies/agentic-commerce-protocol-demo](https://github.com/locus-technologies/agentic-commerce-protocol-demo)
+- [github.com/run-as-root/ACP-for-Magento-2](https://github.com/run-as-root/ACP-for-Magento-2)
+- [github.com/svix/agentic-commerce-protocol](https://github.com/svix/agentic-commerce-protocol)
+- [github.com/chiefastro/agentic-web](https://github.com/chiefastro/agentic-web)
+- [github.com/skyfire-xyz/skyfire-solutions-demo](https://github.com/skyfire-xyz/skyfire-solutions-demo)
+- [github.com/Ghostspeak/GhostSpeak](https://github.com/Ghostspeak/GhostSpeak)
+- [github.com/daydreamsai/lucid-agents](https://github.com/daydreamsai/lucid-agents)
+- [github.com/0xRustElite1111/x402-payments-protocol](https://github.com/0xRustElite1111/x402-payments-protocol)
+- [github.com/Logarithm-Labs/yield-analysis-sdk](https://github.com/Logarithm-Labs/yield-analysis-sdk)
 
 ## Contributing
 Have a link suggestion? Open a PR or issue.
