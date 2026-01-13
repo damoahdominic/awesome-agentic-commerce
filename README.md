@@ -24,9 +24,9 @@ A curated, future-facing hub for agentic commerce in 2026 and beyond.
 - [Google Universal Commerce Protocol (UCP) Github](https://github.com/Universal-Commerce-Protocol/ucp)
 
 ## Platforms & Tools
-- [Wild Card - YC](https://wild-card.ai/)
-- [TryChannel3 -YC](https://trychannel3.com/)
-- [PayWithLocus -YC](https://paywithlocus.com/)
+- [Wild Card - YC W25](https://wild-card.ai/)
+- [TryChannel3 - YC S25](https://trychannel3.com/)
+- [PayWithLocus - YC F25](https://paywithlocus.com/)
 - [Nekuda](https://nekuda.ai/)
 - [Stateset](https://www.stateset.com/)
 - [Simple Checkout](https://simplecheckout.ai/)
