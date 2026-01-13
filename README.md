@@ -1,28 +1,8 @@
 # Awesome Agentic Commerce [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Agentic commerce is the shift from people clicking buy buttons to AI agents acting, deciding, negotiating, and transacting on behalf of users.Instead of browsing products, comparing prices, and checking out manually, users increasingly delegate intent to software:
-
-> “Find the best option, within my constraints, and complete the purchase.”
+Agentic commerce is the shift from people clicking buy buttons to AI agents acting, deciding, negotiating, and transacting on behalf of users.Instead of browsing products, comparing prices, and checking out manually, users increasingly delegate intent to software
 
 This repository exists to document, track, and make sense of that shift.
-
-It curates:
-
-- official announcements from major platforms
-- emerging tools and agent-native infrastructure
-- protocols and standards shaping how agents transact
-- early signals that point to where commerce is heading next
-
-Agentic commerce sits at the intersection of:
-
-- AI agents with autonomy
-- payments and identity
-- trust, consent, and data ownership
-- marketplaces, brands, and APIs
-
-In 2026 and beyond, software won’t just recommend products — it will be the customer.
-
-This repo is a living map of that future.
 
 ## Table of Contents (Legend)
 - [Official & Core](#official--core)
