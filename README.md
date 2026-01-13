@@ -7,9 +7,12 @@ A curated, future-facing hub for agentic commerce in 2026 and beyond.
 - [Standards & Protocols](#standards--protocols)
 - [Contributing](#contributing)
 
-## Official & Core
+## Official Protocols & Core Systems
 - [OpenAI Commerce](https://developers.openai.com/commerce/)
 - [ACP Protocol Website](https://www.agenticcommerce.dev/)
+- [Model Context Protocol (MCP)](https://modelcontextprotocol.io/)
+- [GoogleUniversal Commerce Protocol (UCP)](https://github.com/Universal-Commerce-Protocol/ucp)
+- [Open AI Agentic Commerce Protocol (ACP) Github](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
 
 ## Platforms & Tools
 - [Arc](https://www.arc.network/)
@@ -30,11 +33,6 @@ A curated, future-facing hub for agentic commerce in 2026 and beyond.
 - [x402 - Internet-Native Payments Protocol with AI Agent](https://github.com/0xRustElite1111/x402-payments-protocol)
 - [GhostSpeak: The Ghost Behind Every AI](https://github.com/Ghostspeak/GhostSpeak)
 - [Agentic Web: A Two‑Sided Protocol for Commerce Bounties and Content Paywalls](https://github.com/chiefastro/agentic-web)
-
-## Mainstream Standards & Protocols
-- [Model Context Protocol (MCP)](https://modelcontextprotocol.io/)
-- [Universal Commerce Protocol (UCP)](https://github.com/Universal-Commerce-Protocol/ucp)
-- [Agentic Commerce Protocol (ACP)](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
 
 ## Contributing
 Have a link suggestion? Open a PR or issue.
