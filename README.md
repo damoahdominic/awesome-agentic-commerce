@@ -25,7 +25,6 @@ This repository exists to document, track, and make sense of that shift.
 - [Open AI ACP Protocol Website](https://www.agenticcommerce.dev/)
 - [Google Universal Commerce Protocol (UCP)](https://ucp.dev)
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/)
-- [MCP Pay](https://mcpay.tech/)
 - [x402 Protocol (Coinbase Crypto Payment Protocol)](https://www.x402.org/)
 - [MDN - HTTP 402 Payment Required (Original RFC)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/402)
 
@@ -40,6 +39,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Nekuda](https://nekuda.ai/)
 - [Stateset](https://www.stateset.com/)
 - [Simple Checkout](https://simplecheckout.ai/)
+- [MCP Pay](https://mcpay.tech/)
 - [Skyfire](https://skyfire.xyz/)
 - [PayOS](https://payos.ai/)
 - [Payman](https://paymanai.com/)
