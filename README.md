@@ -12,6 +12,7 @@ This repository exists to document, track, and make sense of that shift.
 - [🗂️ Official Github Projects](#official-github-projects)
 - [🧰 Platforms & Tools](#platforms--tools)
 - [🛍️ ACP Platforms & Tools](#acp-platforms--tools)
+- [📚 Books](#books)
 - [💻 Notable Github Projects](#notable-github-projects)
 - [🤝 Contributing](#contributing)
 
@@ -51,6 +52,9 @@ This repository exists to document, track, and make sense of that shift.
 - [ACP Feed](https://acpfeed.com/)
 - [AgenticCart](https://agenticcart.ai/)
 - [WebVijayi](https://webvijayi.com/instant-checkout-via-acp-agentic-commerce-for-woocommerce/)
+
+## 📚 Books
+- [When AI Shops: Agentic commerce and the revolution in how we buy and sell](https://www.amazon.in/When-AI-Shops-commerce-revolution-ebook/dp/B0G3T4K3VW) by Geoff Gibbins
 
 ## 💻 Notable Github Projects
 - [github.com/vercel/acp-handler](https://github.com/vercel/acp-handler)
