@@ -49,6 +49,8 @@ This repository exists to document, track, and make sense of that shift.
 - [Arc](https://www.arc.network/)
 - [Swap Commerce](https://www.swap-commerce.com/)
 - [Lucid Agents](https://docs.daydreams.systems/)
+- [Dupe](https://dupe.com/)
+- [Shopbeni](https://shopbeni.com/)
 
 ## 🛍️ ACP Platforms & Tools
 - [ACP Feed](https://acpfeed.com/)
