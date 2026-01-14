@@ -25,6 +25,8 @@ This repository exists to document, track, and make sense of that shift.
 - [Open AI ACP Protocol Website](https://www.agenticcommerce.dev/)
 - [Google Universal Commerce Protocol (UCP)](https://ucp.dev)
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/)
+- [AP2 Protocol](https://ap2-protocol.org/)
+- [A2UI Protocol](https://a2ui.org/)
 - [x402 Protocol (Coinbase Crypto Payment Protocol)](https://www.x402.org/)
 - [MDN - HTTP 402 Payment Required (Original RFC)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/402)
 
