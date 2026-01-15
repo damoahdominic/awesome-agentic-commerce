@@ -48,6 +48,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Firmly](https://www.firmly.ai/)
 - [VeryGoodSecurity](https://www.verygoodsecurity.com/)
 - [GhostSpeak](https://www.ghostspeak.io/)
+- [Rye](https://rye.com/)
 - [Crossmint](https://www.crossmint.com/solutions/agentic-finance)
 - [Lithic](https://www.lithic.com/solutions/agentic-commerce)
 - [Henry Labs](https://www.henrylabs.ai/en)
