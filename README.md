@@ -56,6 +56,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Swap Commerce](https://www.swap-commerce.com/)
 - [Lucid Agents](https://docs.daydreams.systems/)
 - [Dupe](https://dupe.com/)
+- [Upsonic](https://upsonic.ai/)
 - [Eesel AI](https://www.eesel.ai/)
 - [Shopbeni](https://shopbeni.com/)
 
