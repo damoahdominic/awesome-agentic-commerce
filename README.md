@@ -53,6 +53,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Solenya](https://www.solenya.ai/)
 - [Saleor](https://saleor.io/agentic-commerce)
 - [OrcaQubits](https://orcaqubits-ai.com/)
+- [Paz.ai](https://paz.ai/)
 - [Zinc](https://www.zinc.com/)
 
 ## 🧩 Protocol Deep Dives
