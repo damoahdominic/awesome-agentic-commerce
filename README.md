@@ -153,6 +153,9 @@ This repository exists to document, track, and make sense of that shift.
 - [FinTech Magazine: AP2](https://fintechmagazine.com/news/agentic-pay-systems-googles-agent-payments-protocol)
 - [MarkTechPost: UCP](https://www.marktechpost.com/2026/01/12/google-ai-releases-universal-commerce-protocol-ucp-an-open-source-standard-designed-to-power-the-next-generation-of-agentic-commerce/)
 - [SEJ: ACP & UCP for SEO](https://www.searchenginejournal.com/agentic-commerce-what-seos-need-to-consider-acp-ucp/563503/)
+- [The Agentic Commerce Wave](https://adaptordie.io/blog/agentic-commerce-wave) - Independent analysis on the transformative shift toward agent-driven commerce
+- [Shopify Not Ready for Agentic Commerce](https://adaptordie.io/blog/agentic-commerce-shopify-not-ready) - Critical examination of major e-commerce platforms' readiness for agentic commerce
+- [SaaSpocalypse: Seat Pricing Dead](https://adaptordie.io/blog/saaspocalypse-seat-pricing-dead) - Analysis of how agentic commerce disrupts traditional SaaS pricing models
 
 ## 💬 Community Resources
 - [Awesome UCP](https://github.com/Upsonic/awesome-ucp)
