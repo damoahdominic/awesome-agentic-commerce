@@ -123,6 +123,7 @@ This repository exists to document, track, and make sense of that shift.
 - [A2A v0.3 Upgrade](https://cloud.google.com/blog/products/ai-machine-learning/agent2agent-protocol-is-getting-an-upgrade)
 
 ## 🧪 Developer Tools & Validation
+- [UCPtools](https://ucptools.dev/) - Free UCP and ACP validation toolkit with 4-level profile checking, AI agent simulation, agentic commerce analytics, security scanning, and CI/CD API
 - [UCP Checker](https://ucpchecker.com/)
 - [UCP Lighthouse](https://ucp.rest/)
 - [Merchant Directory](https://merchants.awesomeucp.com/)
