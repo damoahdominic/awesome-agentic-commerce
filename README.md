@@ -52,6 +52,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Shopbeni](https://shopbeni.com/)
 - [Solenya](https://www.solenya.ai/)
 - [Saleor](https://saleor.io/agentic-commerce)
+- [agorio](https://github.com/Nolpak14/agorio) - Open-source TypeScript SDK for building AI commerce agents using UCP and ACP protocols. Includes LLM-driven shopping agent, 12 built-in tools, and mock merchant server. `npm install @agorio/sdk`
 - [OrcaQubits](https://orcaqubits-ai.com/)
 - [Zinc](https://www.zinc.com/)
 
@@ -188,6 +189,7 @@ This repository exists to document, track, and make sense of that shift.
 - [github.com/daydreamsai/lucid-agents](https://github.com/daydreamsai/lucid-agents)
 - [github.com/0xRustElite1111/x402-payments-protocol](https://github.com/0xRustElite1111/x402-payments-protocol)
 - [github.com/Logarithm-Labs/yield-analysis-sdk](https://github.com/Logarithm-Labs/yield-analysis-sdk)
+- [github.com/Nolpak14/agorio](https://github.com/Nolpak14/agorio)
 
 ## 🤝 Contributing
 Have a link suggestion? Open a PR or issue.
