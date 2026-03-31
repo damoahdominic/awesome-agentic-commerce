@@ -67,6 +67,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Embedded Checkout Guide](https://developers.google.com/merchant/ucp/guides/checkout/embedded)
 - [UCP FAQ](https://developers.google.com/merchant/ucp/faq)
 - [UCP Samples](https://github.com/Universal-Commerce-Protocol/samples)
+- [UCP JavaScript SDK](https://github.com/OmnixHQ/ucp-js-sdk) - Runtime-validated Zod schemas and TypeScript types for the Universal Commerce Protocol. Auto-generated from the UCP JSON Schema spec with 100% coverage — checkout, orders, payments, payment handlers, fulfillment, discounts, buyer consent, AP2 mandates, discovery profiles (platform & business), identity linking, catalog, cart, and all inline enums. Supports MCP, A2A, REST, and Embedded transport bindings. Dual ESM/CJS build. Available on [npm](https://www.npmjs.com/package/@omnixhq/ucp-js-sdk).
 - [UCP Python SDK](https://github.com/Universal-Commerce-Protocol/python-sdk)
 - [UCP Conformance Tests](https://github.com/Universal-Commerce-Protocol/conformance)
 - [Shopify UCP](https://shopify.engineering/ucp)
