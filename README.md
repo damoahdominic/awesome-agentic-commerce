@@ -188,6 +188,7 @@ This repository exists to document, track, and make sense of that shift.
 - [github.com/daydreamsai/lucid-agents](https://github.com/daydreamsai/lucid-agents)
 - [github.com/0xRustElite1111/x402-payments-protocol](https://github.com/0xRustElite1111/x402-payments-protocol)
 - [github.com/Logarithm-Labs/yield-analysis-sdk](https://github.com/Logarithm-Labs/yield-analysis-sdk)
+- [github.com/HadiFrt20/poolpulse-agent-example](https://github.com/HadiFrt20/poolpulse-agent-example) — x402-payable DeFi execution signals API on Base (CLMM slippage, MEV scoring, routing). Live at [poolpulse.poolpulse.workers.dev](https://poolpulse.poolpulse.workers.dev)
 
 ## 🤝 Contributing
 Have a link suggestion? Open a PR or issue.
