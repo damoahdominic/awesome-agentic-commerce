@@ -54,6 +54,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Saleor](https://saleor.io/agentic-commerce)
 - [OrcaQubits](https://orcaqubits-ai.com/)
 - [Zinc](https://www.zinc.com/)
+- [Voidly Pay](https://voidly.ai/pay) — Open off-chain credit ledger for agent-to-agent payments with bridges for x402 and A2A v0.3.0. Ed25519-signed envelopes, escrow, hire workflow, 9 framework adapters (LangChain, CrewAI, AutoGen, LlamaIndex, Haystack, Vercel AI, OpenAI-compat, x402, A2A).
 
 ## 🧩 Protocol Deep Dives
 
@@ -188,6 +189,8 @@ This repository exists to document, track, and make sense of that shift.
 - [github.com/daydreamsai/lucid-agents](https://github.com/daydreamsai/lucid-agents)
 - [github.com/0xRustElite1111/x402-payments-protocol](https://github.com/0xRustElite1111/x402-payments-protocol)
 - [github.com/Logarithm-Labs/yield-analysis-sdk](https://github.com/Logarithm-Labs/yield-analysis-sdk)
+- [github.com/voidly-ai/voidly-pay](https://github.com/voidly-ai/voidly-pay) — Off-chain credit ledger + SDKs with x402 and A2A v0.3.0 bridges
+- [github.com/voidly-ai/voidly-agent-relay](https://github.com/voidly-ai/voidly-agent-relay) — E2E encrypted A2A messaging (Double Ratchet + ML-KEM-768), pairs with Voidly Pay for the full A2A payments stack
 
 ## 🤝 Contributing
 Have a link suggestion? Open a PR or issue.
