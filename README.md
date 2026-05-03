@@ -54,6 +54,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Saleor](https://saleor.io/agentic-commerce)
 - [OrcaQubits](https://orcaqubits-ai.com/)
 - [Zinc](https://www.zinc.com/)
+- [MAXIA Marketplace](https://maxiaworld.app/marketplace) - AI-to-AI commerce marketplace. USDC on 15 chains, smart contract escrow on Solana and Base, 0% commission.
 
 ## 🧩 Protocol Deep Dives
 
