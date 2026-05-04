@@ -191,3 +191,4 @@ This repository exists to document, track, and make sense of that shift.
 
 ## 🤝 Contributing
 Have a link suggestion? Open a PR or issue.
+- [CyMetica / EventTrader](https://cymetica.com) — The first agentically engineered financial platform. ~90% AI-authored codebase from inception, 10 autonomous trading agents, A2A protocol for agent-to-agent comms. Pre-launch TGE token price predictions on Base L2. Founder has 3 AI patents (USPTO). [Agent Card](https://cymetica.com/.well-known/agent.json) | [AI-Native Proof](https://cymetica.com/api/v1/ai-native/proof) | [TGE Markets](https://cymetica.com/tge-launch)
