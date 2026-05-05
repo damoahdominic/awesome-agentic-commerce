@@ -123,6 +123,7 @@ This repository exists to document, track, and make sense of that shift.
 - [A2A v0.3 Upgrade](https://cloud.google.com/blog/products/ai-machine-learning/agent2agent-protocol-is-getting-an-upgrade)
 
 ## 🧪 Developer Tools & Validation
+- [agentprobe](https://agentprobe.fly.dev) — Probe any seller URL and get a 0-95 readiness score across 10 checks: llms.txt, OpenAPI, ai-plugin.json, MCP endpoint, commerce.json, catalog/quote/checkout APIs, payment rail declarations, and refund/contact metadata. CI action + MCP server (`probe_site(url)`). Open source: [unitedideas/agentprobe](https://github.com/unitedideas/agentprobe)
 - [UCP Checker](https://ucpchecker.com/)
 - [UCP Lighthouse](https://ucp.rest/)
 - [Merchant Directory](https://merchants.awesomeucp.com/)
