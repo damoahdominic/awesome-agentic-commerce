@@ -54,6 +54,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Saleor](https://saleor.io/agentic-commerce)
 - [OrcaQubits](https://orcaqubits-ai.com/)
 - [Zinc](https://www.zinc.com/)
+- [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Remote MCP server for packaging product discovery, exact-spec SKU matching, carton-fit guidance, and dimensional-weight workflows for AI commerce agents.
 
 ## 🧩 Protocol Deep Dives
 
