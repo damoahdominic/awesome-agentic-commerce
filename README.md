@@ -54,6 +54,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Saleor](https://saleor.io/agentic-commerce)
 - [OrcaQubits](https://orcaqubits-ai.com/)
 - [Zinc](https://www.zinc.com/)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz/) - Solana-native AI agent trust scoring via x402 micropayments — free on-chain preflight checks + paid signed trust receipts settled in <1s
 
 ## 🧩 Protocol Deep Dives
 
