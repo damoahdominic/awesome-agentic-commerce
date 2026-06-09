@@ -55,6 +55,8 @@ This repository exists to document, track, and make sense of that shift.
 - [OrcaQubits](https://orcaqubits-ai.com/)
 - [Zinc](https://www.zinc.com/)
 
+- [The Stall](https://the-stall.intuitek.ai) — 183 pay-per-call financial data tools via x402/USDC on Base (no API key required)
+
 ## 🧩 Protocol Deep Dives
 
 ### UCP (Universal Commerce Protocol)
