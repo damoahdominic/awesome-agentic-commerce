@@ -188,6 +188,7 @@ This repository exists to document, track, and make sense of that shift.
 - [github.com/daydreamsai/lucid-agents](https://github.com/daydreamsai/lucid-agents)
 - [github.com/0xRustElite1111/x402-payments-protocol](https://github.com/0xRustElite1111/x402-payments-protocol)
 - [github.com/Logarithm-Labs/yield-analysis-sdk](https://github.com/Logarithm-Labs/yield-analysis-sdk)
+- [gold-402](https://github.com/Haustorium12/gold-402) — Curated x402 directory by 24K Labs. 300+ handpicked entries across facilitators, SDKs, MCP servers, APIs, and tools, with editorial writeups and verified badges for production-confirmed services. Backed by a 29,000+ entry catalog from CDP Bazaar and Agentic.market.
 
 ## 🤝 Contributing
 Have a link suggestion? Open a PR or issue.
