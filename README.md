@@ -33,6 +33,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Stateset](https://www.stateset.com/)
 - [Simple Checkout](https://simplecheckout.ai/)
 - [MCP Pay](https://mcpay.tech/)
+- [GPT-5.5 x402 API Gateway](https://gpt55.558686.xyz/) - OpenAI-compatible GPT-5.5 chat and text tools with x402 Base USDC payments, $0.0001 compact requests, long/max-output tiers, OpenAPI metadata, AgentCard, agents402, and MCP discovery for autonomous buyers.
 - [Skyfire](https://skyfire.xyz/)
 - [PayOS](https://payos.ai/)
 - [Payman](https://paymanai.com/)
