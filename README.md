@@ -189,5 +189,7 @@ This repository exists to document, track, and make sense of that shift.
 - [github.com/0xRustElite1111/x402-payments-protocol](https://github.com/0xRustElite1111/x402-payments-protocol)
 - [github.com/Logarithm-Labs/yield-analysis-sdk](https://github.com/Logarithm-Labs/yield-analysis-sdk)
 
+- [github.com/BuyWhere/buywhere-mcp](https://github.com/BuyWhere/buywhere-mcp) — Open-source MCP server for AI agent commerce. Search 11M+ products across Singapore, SEA, and US markets via 8 MCP tools (search, compare, deals, categories). Free API keys. Live on the official MCP Registry as `io.github.BuyWhere/buywhere-mcp`.
+
 ## 🤝 Contributing
 Have a link suggestion? Open a PR or issue.
