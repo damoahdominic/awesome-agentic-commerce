@@ -126,6 +126,7 @@ This repository exists to document, track, and make sense of that shift.
 - [UCP Checker](https://ucpchecker.com/)
 - [UCP Lighthouse](https://ucp.rest/)
 - [Merchant Directory](https://merchants.awesomeucp.com/)
+- [Packrift UCP Shipping-Supplies Starter Kit](https://mcp.packrift.com/ai/packrift-ucp-shipping-supplies-starter-kit.html) - Live Shopify UCP packaging merchant and MCP endpoint for builders seeding boxes, mailers, bags, tape, labels, and stretch wrap.
 - [Agent Development Kit (ADK)](https://google.github.io/adk-docs/)
 - [ADK Python](https://github.com/google/adk-python)
 - [ADK Samples](https://github.com/google/adk-samples)
