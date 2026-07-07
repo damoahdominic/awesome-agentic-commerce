@@ -25,6 +25,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Google Universal Commerce Protocol (UCP) Github](https://github.com/Universal-Commerce-Protocol/ucp)
 
 ## 🧰 Platforms & Tools
+- [Vaaya](https://vaaya.ai/)
 - [Wild Card - YC W25](https://wild-card.ai/)
 - [TryChannel3 - YC S25](https://trychannel3.com/)
 - [PayWithLocus - YC F25](https://paywithlocus.com/)
