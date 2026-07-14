@@ -18,6 +18,7 @@ This repository exists to document, track, and make sense of that shift.
 - [AP2 Protocol](https://ap2-protocol.org/)
 - [A2UI Protocol](https://a2ui.org/)
 - [x402 Protocol (Coinbase Crypto Payment Protocol)](https://www.x402.org/)
+- [AgentServices](https://agentservices.to) — Paid API platform for AI agents with 54 services, 97 endpoints, and 41 x402-paid paths. Crypto market data, stock prices, FX rates, news, LLM inference, and image generation. 37 MCP tools. USDC on Base. [MCP server](https://agentservices.to/mcp).
 - [MDN - HTTP 402 Payment Required (Original RFC)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/402)
 
 ## 🗂️ Official Github Projects
