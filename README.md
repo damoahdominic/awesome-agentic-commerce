@@ -49,6 +49,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
 - [OpenZeppelin Relayer x402 Facilitator](https://docs.openzeppelin.com/relayer/guides/stellar-x402-facilitator-guide) - Stellar x402 facilitator plugin for payment verification and settlement via OpenZeppelin Relayer.
+- [AlgoVoi](https://algovoi.co.uk/) - Self-hosted multi-protocol agentic-commerce facilitator (live AP2, A2A v0.3, x402, IETF MPP) across Algorand, VOI, Hedera, Stellar, Base, Solana, and Tempo. Ships a JCS canonicalisation spec and conformance vectors for signed payment receipts.
 
 
 ### Open Source & SDKs
@@ -92,6 +93,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Routeweiler](https://github.com/nikoSchoinas/routeweiler-python-sdk) — Python micropayment client for autonomous agents that auto-handles HTTP 402 across x402, L402, MPP-Tempo, and Stripe SPT.
 - [agentpay-mcp](https://github.com/up2itnow0822/agentpay-mcp) ([npm](https://www.npmjs.com/package/agentpay-mcp)) - Non-custodial x402 MCP payment server for AI agents. Local signing — no custodial infrastructure. x402 V2 session payments, Base USDC, CCTP cross-chain.
 - [PipRail](https://github.com/piprail/piprail) - Backendless, MIT TypeScript SDK for x402 across 28 chains in 10 families (EVM, Solana, TON, Tron, NEAR, Sui, Aptos, Algorand, Stellar, XRPL). No facilitator, no fee — payments settle straight to your wallet, verified locally against your own RPC. ([npm](https://www.npmjs.com/package/@piprail/sdk))
+- [AlgoVoi-MCP-Server](https://github.com/chopmob-cloud/AlgoVoi-MCP-Server) - MCP server exposing `discover_agents`, `create_checkout`, `check_payment_status`, and `verify_payment` tools to AI agents for the AlgoVoi facilitator.
 
 ### Standards and EIPs
 - [HTTP 402 Payment Required (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/402): browser-facing reference for the status code x402 standardizes around.
