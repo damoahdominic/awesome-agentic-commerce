@@ -54,6 +54,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Saleor](https://saleor.io/agentic-commerce)
 - [OrcaQubits](https://orcaqubits-ai.com/)
 - [Zinc](https://www.zinc.com/)
+- [SCVD General Store](https://scvd.store/) — x402 store on Base and Solana; every purchase gets a signed, independently verifiable receipt, and its free conformance desk checks any issuer's x402 signed offers/receipts, not just its own.
 
 ## 🧩 Protocol Deep Dives
 
