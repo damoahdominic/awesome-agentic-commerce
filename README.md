@@ -54,6 +54,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Saleor](https://saleor.io/agentic-commerce)
 - [OrcaQubits](https://orcaqubits-ai.com/)
 - [Zinc](https://www.zinc.com/)
+- [Vedetta](https://vedetta.dethboy.com/)
 
 ## 🧩 Protocol Deep Dives
 
@@ -89,6 +90,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Stripe Instant Checkout](https://stripe.com/newsroom/news/stripe-openai-instant-checkout)
 - [Developing an Open Standard](https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce)
 - [Stripe Commerce Solutions](https://stripe.com/blog/introducing-our-agentic-commerce-solutions)
+- 
 
 ### AP2 (Agent Payments Protocol)
 - [AP2 GitHub](https://github.com/google-agentic-commerce/AP2)
@@ -166,7 +168,6 @@ This repository exists to document, track, and make sense of that shift.
 - [A2A GitHub Discussions](https://github.com/a2aproject/A2A/discussions)
 
 
-
 ## 🛍️ ACP Platforms & Tools
 - [ACP Feed](https://acpfeed.com/)
 - [AgenticCart](https://agenticcart.ai/)
@@ -188,6 +189,7 @@ This repository exists to document, track, and make sense of that shift.
 - [github.com/daydreamsai/lucid-agents](https://github.com/daydreamsai/lucid-agents)
 - [github.com/0xRustElite1111/x402-payments-protocol](https://github.com/0xRustElite1111/x402-payments-protocol)
 - [github.com/Logarithm-Labs/yield-analysis-sdk](https://github.com/Logarithm-Labs/yield-analysis-sdk)
+- [github.com/lacryptorina/vedetta](https://github.com/lacryptorina/vedetta)
 
 ## 🤝 Contributing
 Have a link suggestion? Open a PR or issue.
