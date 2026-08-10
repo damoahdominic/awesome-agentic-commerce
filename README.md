@@ -54,6 +54,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Saleor](https://saleor.io/agentic-commerce)
 - [OrcaQubits](https://orcaqubits-ai.com/)
 - [Zinc](https://www.zinc.com/)
+- [SCVD General Store](https://scvd.store) - An x402 store on Base and Solana. Every purchase gets a signed, independently verifiable receipt (free, no account, forever — /api/verify/{id}). Runs a free conformance desk (POST /api/conformance/v1) that checks any issuer's x402 signed offers and receipts. Publishes a weekly signed, Bitcoin-anchored corpus of x402 ecosystem observations (/corpus.json). Cheapest live x402 settlement target: $0.005.
 
 ## 🧩 Protocol Deep Dives
 
