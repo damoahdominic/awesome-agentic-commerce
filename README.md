@@ -54,6 +54,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Saleor](https://saleor.io/agentic-commerce)
 - [OrcaQubits](https://orcaqubits-ai.com/)
 - [Zinc](https://www.zinc.com/)
+- [Colombia TRM](https://x402.lagaceta.net/trm) — Official Superintendencia Financiera USD/COP as a prepaid x402 API ($0.005 USDC on Base).
 
 ## 🧩 Protocol Deep Dives
 
