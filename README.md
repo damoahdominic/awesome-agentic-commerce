@@ -32,6 +32,7 @@ This repository exists to document, track, and make sense of that shift.
 - [CartAI](https://www.cartai.ai/)
 - [Stateset](https://www.stateset.com/)
 - [Simple Checkout](https://simplecheckout.ai/)
+- [NEX Agent Co.](https://nexaitechau.github.io/) - Live x402 + A2A dual-protocol agentic commerce on Base. 11 paid USDC endpoints at $0.001-0.01, 10 free mirrors, 23 on-chain NFTs for ERC-8004-style reputation. Apache-2.0 reference server.
 - [MCP Pay](https://mcpay.tech/)
 - [Skyfire](https://skyfire.xyz/)
 - [PayOS](https://payos.ai/)
