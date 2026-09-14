@@ -55,6 +55,8 @@ This repository exists to document, track, and make sense of that shift.
 - [OrcaQubits](https://orcaqubits-ai.com/)
 - [Zinc](https://www.zinc.com/)
 
+- [AffixIO](https://www.affix-io.com/)
+
 ## 🧩 Protocol Deep Dives
 
 ### UCP (Universal Commerce Protocol)
@@ -188,6 +190,8 @@ This repository exists to document, track, and make sense of that shift.
 - [github.com/daydreamsai/lucid-agents](https://github.com/daydreamsai/lucid-agents)
 - [github.com/0xRustElite1111/x402-payments-protocol](https://github.com/0xRustElite1111/x402-payments-protocol)
 - [github.com/Logarithm-Labs/yield-analysis-sdk](https://github.com/Logarithm-Labs/yield-analysis-sdk)
+
+- [github.com/AffixIO/SDK](https://github.com/AffixIO/SDK)
 
 ## 🤝 Contributing
 Have a link suggestion? Open a PR or issue.
