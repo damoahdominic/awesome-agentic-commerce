@@ -187,6 +187,7 @@ This repository exists to document, track, and make sense of that shift.
 - [github.com/Ghostspeak/GhostSpeak](https://github.com/Ghostspeak/GhostSpeak)
 - [github.com/daydreamsai/lucid-agents](https://github.com/daydreamsai/lucid-agents)
 - [github.com/0xRustElite1111/x402-payments-protocol](https://github.com/0xRustElite1111/x402-payments-protocol)
+- [github.com/PANDeveloper001/openai-agents-nano-x402](https://github.com/PANDeveloper001/openai-agents-nano-x402) — x402 adapter that lets an OpenAI Agents SDK agent settle in self-custodied, feeless Nano (XNO); live mainnet proof recorded in docs/live-proof.md.
 - [github.com/Logarithm-Labs/yield-analysis-sdk](https://github.com/Logarithm-Labs/yield-analysis-sdk)
 
 ## 🤝 Contributing
