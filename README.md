@@ -18,6 +18,7 @@ This repository exists to document, track, and make sense of that shift.
 - [AP2 Protocol](https://ap2-protocol.org/)
 - [A2UI Protocol](https://a2ui.org/)
 - [x402 Protocol (Coinbase Crypto Payment Protocol)](https://www.x402.org/)
+- [Nano (XNO) — Feeless Settlement Rail](https://nano.org) - zero-fee, ~sub-second, self-custodied layer-1 settlement for agent payments; settles per-call with an [x402 exact-scheme leg](https://github.com/x402nano/exact) on `nano:mainnet`
 - [MDN - HTTP 402 Payment Required (Original RFC)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/402)
 
 ## 🗂️ Official Github Projects
