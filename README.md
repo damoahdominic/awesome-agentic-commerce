@@ -54,6 +54,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Saleor](https://saleor.io/agentic-commerce)
 - [OrcaQubits](https://orcaqubits-ai.com/)
 - [Zinc](https://www.zinc.com/)
+- [Vend - Pay-per-call data APIs for AI agents](https://paypercall.dev/) - Clean text/markdown extraction, web search, IP geolocation, domain & Nano account info and more, settled per call on a fee-free native Nano (XNO) rail via the HTTP 402 x402 protocol. No signup, no API keys; 0.0001 XNO per call. [x402 manifest](https://extract.paypercall.dev/.well-known/x402)
 
 ## 🧩 Protocol Deep Dives
 
