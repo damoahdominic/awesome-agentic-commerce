@@ -54,6 +54,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Saleor](https://saleor.io/agentic-commerce)
 - [OrcaQubits](https://orcaqubits-ai.com/)
 - [Zinc](https://www.zinc.com/)
+- [bilbop x402](https://api.bilbop.org) - Pay-per-call Solana x402 APIs for agents (summarize, sol-token-brief, sol-mint-info, brand-feedback, Piper TTS). USDC via PayAI; discovery at `/.well-known/x402`.
 
 ## 🧩 Protocol Deep Dives
 
