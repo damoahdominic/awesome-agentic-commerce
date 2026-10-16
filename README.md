@@ -33,6 +33,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Stateset](https://www.stateset.com/)
 - [Simple Checkout](https://simplecheckout.ai/)
 - [MCP Pay](https://mcpay.tech/)
+- [Money Reactor](https://github.com/makar52nn2016-jpg/money-reactor) — agent-native paid micro APIs (x402, USDC Base): funded crypto bounty radar + GitHub honeypot trust scoring, $0.001–$0.01 per call, MCP + OpenAPI discovery
 - [Skyfire](https://skyfire.xyz/)
 - [PayOS](https://payos.ai/)
 - [Payman](https://paymanai.com/)
