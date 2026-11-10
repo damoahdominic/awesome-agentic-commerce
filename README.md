@@ -126,6 +126,7 @@ This repository exists to document, track, and make sense of that shift.
 - [UCP Checker](https://ucpchecker.com/)
 - [UCP Lighthouse](https://ucp.rest/)
 - [Merchant Directory](https://merchants.awesomeucp.com/)
+- [Overcharge Test by CanItBuy](https://oc.lab.canitbuy.com/results) - Open data (CC BY 4.0): where 8 LLM shopping agents stop when a store adds a 0-100% fee at checkout, with every run and full agent messages.
 - [Agent Development Kit (ADK)](https://google.github.io/adk-docs/)
 - [ADK Python](https://github.com/google/adk-python)
 - [ADK Samples](https://github.com/google/adk-samples)
