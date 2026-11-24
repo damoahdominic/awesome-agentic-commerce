@@ -174,6 +174,7 @@ This repository exists to document, track, and make sense of that shift.
 
 ## 📚 Books
 - [When AI Shops: Agentic commerce and the revolution in how we buy and sell](https://www.amazon.in/When-AI-Shops-commerce-revolution-ebook/dp/B0G3T4K3VW) by Geoff Gibbins
+- [Agentic Commerce: The Handbook for Commerce Strategy, Technology and Leadership](https://www.agentic-commerce.sh/book/en/) by Stefan Hamann (free to read online in English and German)
 
 ## 💻 Notable Github Projects
 - [github.com/vercel/acp-handler](https://github.com/vercel/acp-handler)
